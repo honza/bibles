@@ -9,3 +9,9 @@ Available:
 * New International Version (NIV)
 * The Message (MSG)
 * New Living Translation (NLT)
+
+Formats:
+
+* XML
+* JSON
+* YAML
