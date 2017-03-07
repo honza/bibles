@@ -15,3 +15,10 @@ Formats:
 * XML
 * JSON
 * YAML
+
+License
+-------
+
+Text of the Bible is licensed by the respective publishers.
+
+Contrib code is licensed to you under the terms of the MIT license.
