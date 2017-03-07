@@ -5,7 +5,7 @@ Machine-readable vesions of English translations of the Bible
 
 Available:
 
-* English Standard Version (ESV)
+* English Standard Version (ESV) - 2001 edition
 * New International Version (NIV)
 * The Message (MSG)
 * New Living Translation (NLT)
